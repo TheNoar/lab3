@@ -1,4 +1,4 @@
-Lab 3 Writeup: Andrew Gordon, Noah Dillon
+**Lab 3 Writeup: Andrew Gordon, Noah Dillon**
 
 For questions that require implementation of code, see Lab3.scala
 
